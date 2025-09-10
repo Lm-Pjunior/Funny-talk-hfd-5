@@ -13,11 +13,9 @@ println(abcd);
 
 //hfd 5.2 and 5.3
 println(" ");
-println("hfd 5.2");
 println(" ");
 String text1 = "McDingus: FEAR, the press my friend! they're after me biscuits! ";
 String text2 = "quite the tragedy I tell ya.";
-String textStrng1 ="Old man Joe: Don't mind him he got his brains blown to bloody smitereens..." + text2;
 
 String text3 = "McDingus: I once saw a ";
 String text4 = "dino nugget wandering the deserts!!!";
